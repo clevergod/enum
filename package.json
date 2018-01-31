@@ -1,0 +1,25 @@
+{
+  "name": "cg-enum",
+  "version": "1.0.0",
+  "description": "A Enum Type Realization",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevergod/enum.git"
+  },
+  "keywords": [
+    "enum"
+  ],
+  "author": "clevergod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clevergod/enum/issues"
+  },
+  "homepage": "https://github.com/clevergod/enum#readme"
+}
