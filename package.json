@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "node_modules/.bin/babel src --out-dir lib"
+    "build": "babel src -d lib"
   },
   "repository": {
     "type": "git",
@@ -24,12 +24,6 @@
   "homepage": "https://github.com/clevergod/enum#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-core": "^7.0.0-beta.2",
-    "babel-plugin-minify-replace": "^0.2.0",
-    "babel-preset-es2015": "^7.0.0-beta.2",
-    "babel-preset-stage-0": "^7.0.0-beta.2",
-    "babel-register": "^7.0.0-beta.2",
-    "eslint": "^4.8.0",
-    "eslint-config-airbnb": "^16.0.0"
+    "babel-preset-env": "^1.6.1"
   }
 }
