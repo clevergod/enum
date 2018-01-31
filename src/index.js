@@ -1,5 +1,3 @@
-const version = __VERSION__
-
 /**
  * 枚举类型
  * 
@@ -152,7 +150,4 @@ class Enum {
   }
 }
 
-Enum.version = version
-
-export { Enum, version }
 export default Enum
