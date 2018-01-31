@@ -1,5 +1,5 @@
 {
-  "name": "@cg/enum",
+  "name": "cg-enum",
   "version": "1.0.1",
   "description": "A Enum Type Realization",
   "main": "index.js",
